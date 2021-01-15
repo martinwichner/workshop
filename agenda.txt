@@ -1,0 +1,35 @@
+React und Typescript
+
+1. How to code React
+    - VS code
+    - nodejs
+        - Node Version Manager kann durchaus hilfreich sein
+    - Extensions die ich nutze
+        - Bracket Colorizer 2
+        - Prettier - Code formatter
+            - format on save
+    - boiler plate
+        - npx create-react-app [projekt name] --template typescript
+            - was ist npx
+                - nutzen von node packages ohne sie installieren zu müssen
+                - geeignet für packete die man nur einmal verwendet wie create-react-app
+    - Wie schreiben wir React Komponenten und Typescript
+        - Functional Components
+        - in Typescript
+        - any vermeiden
+    - Add packages
+        - yarn or npm
+    - Run npm scripts
+    - Destructering Objects
+
+
+2. Aufbau einer React Komponente
+    - import 
+    - export
+    - "body"
+    - childrens
+ 
+X. Hooks
+    - useState
+    - useEffect
+    - custom Hook
